@@ -1,0 +1,3 @@
+[submodule "lab_9_robotics"]
+	path = lab_9_robotics
+	url = https://github.com/Fenix-125/ai_lab_9_ros.git
